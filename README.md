@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=provornydan&label=Profile%20views&color=0e75b6&style=flat" alt="provornydan" /> </p>
 
-- 🔭 I’m currently working on **Platic ERP**
+- 🔭 I’m currently working on **Plastic ERP**
 
 - 🌱 I’m currently learning **PyTorch, scikit-learn**
 
